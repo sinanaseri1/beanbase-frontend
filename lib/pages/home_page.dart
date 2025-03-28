@@ -23,7 +23,7 @@ class HomePage extends StatelessWidget {
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
               Text(
-                'Welcome to Coffee Reviews',
+                'Welcome to Bean Base, A Coffee Review Platform',
                 textAlign: TextAlign.center,
                 style: Theme.of(context).textTheme.headlineMedium?.copyWith(
                     color: Colors.black, fontWeight: FontWeight.bold),
